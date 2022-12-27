@@ -1,11 +1,11 @@
 <!--👋-Banner-->
-[![Banner](/header.jpg)](https://github.com/skanderboudawara/skanderboudawara/blob/main/header.jpeg?raw=true)
+<center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/header.jpeg?raw=true"/></center>
 
 # 👋 Hi,
 
 ## 👨‍💻 About Me
 
-My name is Skander, working and living in France 🇫🇷 in the aeronautical field.
+My name is Skander, living and working in France 🇫🇷 in the aeronautical field.
 
 I am a data enthusiast, self-taught and passionate about data topics. I look forward to helping you make data-based decisions through KPI analysis and insights to achieve your project objectives.
 
