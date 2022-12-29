@@ -5,7 +5,9 @@
 
 **`Data engineer (Developer/Analyst/Creator)`**
 
-<center><a style="font-size:18px" href="https://github.com/stars/skanderboudawara/lists/data-analysis">📊 My Data Analysis Projects</a></center>
+### [📊 My Data Analysis Projects](https://github.com/stars/skanderboudawara/lists/data-analysis)
+
+
 
 ---
 ## 👨‍💻 About Me
@@ -25,7 +27,7 @@ Do not hesitate to contact me through my LinkedIn Profile
 </p>
 
 <details>
- <summary><h3>👨‍💻 Skander's data engineer Journey</h3></summary>
+ <summary>👨‍💻 More on Skander's data engineer Journey</summary>
   <p>I was formerly a quality engineer working with many KPIs and dashboards after graduating. My main goal was to build dashboards on Datastudio or Tableau to illustrate the cost of non-quality, a Pareto analysis of top redundant defects, etc... </p>
   <p>Data was a field I had adored since high school, and I found myself, even as a quality engineer, using more and more data analyst/engineer skills. </p>
   <p>Then, I decided at the end of 2021, after four years of experience in the quality field, to go on a career pivot to become a full-time data analyst and then a data engineer.</p>
