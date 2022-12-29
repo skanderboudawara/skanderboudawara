@@ -3,9 +3,7 @@
 
 # 👋 Hi,
 
-<center><a href="https://github.com/stars/skanderboudawara/lists/data-analysis">
-<h4>📊 My Data Analysis Project</h4>
-</a></center>
+<center><a style="font-size:18px" href="https://github.com/stars/skanderboudawara/lists/data-analysis">📊 My Data Analysis Project</a></center>
 
 ## 👨‍💻 About Me
 
