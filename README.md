@@ -1,29 +1,22 @@
 <!--👋-Banner-->
 <center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/header.jpeg?raw=true"/></center>
 
-# 👋 Hi,
+# 🧑🏻‍💻 Skander Boudawara
 
-<center><a style="font-size:18px" href="https://github.com/stars/skanderboudawara/lists/data-analysis">📊 My Data Analysis Project</a></center>
+**`Data engineer (Developer/Analyst/Creator)`**
 
+<center><a style="font-size:18px" href="https://github.com/stars/skanderboudawara/lists/data-analysis">📊 My Data Analysis Projects</a></center>
+
+---
 ## 👨‍💻 About Me
+I am a data enthusiast, self-taught and passionate about data topics. Today, I work as a data engineer for Airbus on Skywise platform, manipulating a large amount of data to build pipelines and clean and analyze engineering datasets.
 
-My name is Skander, living and working in France 🇫🇷 in the aeronautical field.
+On my GitHub, you will find my projects built from the ground up, from the idea all the way to solving real-life problems with code.
 
-I am a data enthusiast, self-taught and passionate about data topics. I look forward to helping you make data-based decisions through KPI analysis and insights to achieve your project objectives.
 
-I was formerly a quality engineer working with many KPIs and dashboards after graduating. Then, I decided at the end of 2021 to go on a career pivot to become a full-time data analyst and then a data engineer. 
+I have also managed and produced Arabic videos to simplify the scientific aspects for an audience of more than 200k on YouTube. ✨ Khormologia ✨ '(Closed in 2021)
 
-Data was a field I had adored since high school and my goal today is to master most aspects of it.
-
-My top skills are:
-- Recently certified from the Google Data Analyst program 
-- Mastering Python (Pyspark, Pandas), SQL and Skywise
-- Dashboards and KPI analysis (Qlik, Tableau, DataStudio ..)
-- Teamwork, self-taught and reliable
-
-_I have also managed and produced Arabic videos to simplify the scientific aspects for an audience of more than 200k on YouTube. ✨ Khormologia ✨ '(Closed in 2021)_
-
-## 📫 Contact me
+Do not hesitate to contact me through my LinkedIn Profile
 <p>
 <a href="https://www.linkedin.com/in/skanderboudawara/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -31,8 +24,18 @@ _I have also managed and produced Arabic videos to simplify the scientific aspec
 <br>
 </p>
 
+<details>
+ <summary><h3>👨‍💻 Skander's data engineer Journey</h3></summary>
+  <p>I was formerly a quality engineer working with many KPIs and dashboards after graduating. My main goal was to build dashboards on Datastudio or Tableau to illustrate the cost of non-quality, a Pareto analysis of top redundant defects, etc... </p>
+  <p>Data was a field I had adored since high school, and I found myself, even as a quality engineer, using more and more data analyst/engineer skills. </p>
+  <p>Then, I decided at the end of 2021, after four years of experience in the quality field, to go on a career pivot to become a full-time data analyst and then a data engineer.</p>
+  <p>I obtained my professional Coursera certificate (Google Data Analytics) by the end of 2021 and landed my first job as a data engineer on April 2022.
+  </p>
+  <p>Now, I am living my dream, and I am fulfilled with my work.</p>
+</details>
 
-## 💻 My Skills 
+---
+## 🧰 Languages and Tools 
 
 <!--Programming languages-->
 <p>
@@ -71,8 +74,8 @@ _I have also managed and produced Arabic videos to simplify the scientific aspec
 </p>
 
 <details>
-<summary style="font-size:20px">
-👾 More skills
+<summary>
+<h2>👾 More tools</h2>
 </summary>
 <!--Creaative-->
 <p>
