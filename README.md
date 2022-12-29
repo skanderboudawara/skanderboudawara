@@ -26,6 +26,8 @@ Do not hesitate to contact me through my LinkedIn Profile
 <br>
 </p>
 
+<center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/Timeline.png?raw=true"/></center>
+
 <details>
  <summary>👨‍💻 More on Skander's data engineer Journey</summary>
   <p>I was formerly a quality engineer working with many KPIs and dashboards after graduating. My main goal was to build dashboards on Datastudio or Tableau to illustrate the cost of non-quality, a Pareto analysis of top redundant defects, etc... </p>
