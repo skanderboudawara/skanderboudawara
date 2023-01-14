@@ -11,14 +11,13 @@
 
 ---
 ## 👨‍💻 About Me
-I am a data enthusiast, self-taught and passionate about data topics. Today, I work as a data engineer for Airbus on Skywise platform, manipulating a large amount of data to build pipelines and clean and analyze engineering datasets.
+I am a highly motivated and self-taught data analyst/engineer with a passion for leveraging data to drive real-world solutions. Currently, I am a data engineer at Airbus, where I am responsible for building and maintaining data pipelines, and cleaning and analyzing large datasets on the Skywise platform.
 
-On my GitHub, you will find my projects built from the ground up, from the idea all the way to solving real-life problems with code.
+On my GitHub, you can find a collection of projects that I have developed from concept to completion, showcasing my ability to turn ideas into functional solutions for real-world challenges through code.
 
+I have also managed and created Arabic educational videos to simplify scientific concepts for an audience of over 200k on YouTube through the channel "Khormologia", for a period of 4 years.
 
-I have also managed and produced Arabic videos to simplify the scientific aspects for an audience of more than 200k on YouTube. ✨ Khormologia ✨ '(Closed in 2021)
-
-Do not hesitate to contact me through my LinkedIn Profile
+Please feel free to reach out to me via my LinkedIn profile.
 <p>
 <a href="https://www.linkedin.com/in/skanderboudawara/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,16 +25,13 @@ Do not hesitate to contact me through my LinkedIn Profile
 <br>
 </p>
 
-<center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/Timeline.png?raw=true"/></center>
 
 <details>
  <summary>👨‍💻 More on Skander's data engineer Journey</summary>
-  <p>I was formerly a quality engineer working with many KPIs and dashboards after graduating. My main goal was to build dashboards on Datastudio or Tableau to illustrate the cost of non-quality, a Pareto analysis of top redundant defects, etc... </p>
-  <p>Data was a field I had adored since high school, and I found myself, even as a quality engineer, using more and more data analyst/engineer skills. </p>
-  <p>Then, I decided at the end of 2021, after four years of experience in the quality field, to go on a career pivot to become a full-time data analyst and then a data engineer.</p>
-  <p>I obtained my professional Coursera certificate (Google Data Analytics) by the end of 2021 and landed my first job as a data engineer on April 2022.
-  </p>
-  <p>Now, I am living my dream, and I am fulfilled with my work.</p>
+
+<p>I started my career as a quality engineer, where I was responsible for monitoring and analyzing key performance indicators (KPIs) and creating dashboards to illustrate the cost of non-quality and Pareto analysis of top redundant defects using Data Studio and Tableau. Throughout my tenure, I found myself increasingly utilizing my data analysis and engineering skills, and I realized that this was the career path I wanted to pursue.</p>
+
+<p>In 2021, I made the decision to pivot my career towards data analysis and engineering and pursued a professional Coursera certificate (Google Data Analytics) which led me to my first data engineer role in April 2022. I am now living my dream and am fulfilled by my work and its impact.</p>
 </details>
 
 ---
