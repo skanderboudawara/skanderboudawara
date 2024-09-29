@@ -1,5 +1,5 @@
 <!--👋-Banner-->
-<center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/header.jpeg?raw=true"/></center>
+<center><img alt="Header" src="https://github.com/skanderboudawara/skanderboudawara/blob/main/header.png?raw=true"/></center>
 
 # 🧑🏻‍💻 Skander Boudawara
 
