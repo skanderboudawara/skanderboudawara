@@ -44,4 +44,4 @@
 
 ### Philosophy
 > "Data is the new oil." - Clive Humby
-> "Without data, you're just another person with an opinion." - W. Edwards Deming
+
