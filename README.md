@@ -21,11 +21,10 @@
 [![instagram](https://img.shields.io/badge/-@khormologia-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khormologia/)
 
 ## Current Projects
+- 🔎 **[Pyspark-AntiPattern](https://github.com/skanderboudawara/pyspark-antipattern)**: A cli tool to check all the pyspark antipattern.
 - ✈️ **[TunisairAlert](https://github.com/skanderboudawara/TunisairAlert)**: A flight price alert system for Tunisair flights.
 - 🐻‍❄️ **[SparkPolars](https://github.com/skanderboudawara/sparkpolars)**: A library to convert Spark DataFrames to Polars DataFrames and vice versa.
 - ✅ **[SpakrCheck](https://github.com/skanderboudawara/sparkcheck)**: A data validation library for PySpark DataFrames using a simple and intuitive syntax.
-- 🎧 **[Spotify Phonk Analyser](https://github.com/skanderboudawara/spotify-phonk-analysis)** Dashboard to analyze Phonk music on Spotify
-- 📚 **[Bac Data Analysis](https://github.com/skanderboudawara/bac-data-analysis)**: An analysis of the Tunisian Baccalaureate exam results over the past decade.
 
 ## What I'm doing
 - Building scalable data pipelines and ETL processes using PySpark, Databricks, and AWS.
